@@ -1,0 +1,16 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Sofia";
+    margin: 0;
+}
+
+body p {
+    font-family: "trirong";
+}
